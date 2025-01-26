@@ -51,7 +51,34 @@ This is a fully functional ecommerce web application created for a shoe company.
 - Highlights products added within the last 30 days.
 - Automatic removal of expired products.
 
+---
 
+## Screenshots
+
+### Login Page
+![Login Page](src/main/webapp/assets/screenshots/Login.png)
+
+### User Dashboard
+![User Dashboard](src/main/webapp/assets/screenshots/User-Dashboard1.png)
+![User Dashboard](src/main/webapp/assets/screenshots/UserDashboard2.png)
+
+
+### All Products
+![All Products](src/main/webapp/assets/screenshots/All.png)
+
+
+### Admin Management
+![Admin Dashboard](src/main/webapp/assets/screenshots/Admin-User.png)
+
+### Cart
+![Cart](src/main/webapp/assets/screenshots/Cart1.png)
+
+### Payment
+![Payment](src/main/webapp/assets/screenshots/payment.png)
+
+
+Check out the full walkthrough of the project on YouTube:  
+[**Watch the video here**](https://youtu.be/fl1czKpSB5g?si=pdWXNVLtA0cTn9uk)
 
 
 
