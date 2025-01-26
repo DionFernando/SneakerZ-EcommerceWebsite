@@ -1,0 +1,50 @@
+/*navigation bar*/
+.navbar {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    color: black;
+}
+
+.bg-danger {
+    opacity: 0.9;
+}
+
+.nav-item {
+    padding: 10px 20px;
+}
+
+.nav-link {
+    font-weight: 500;
+    color: black !important;
+}
+
+.nav-link:hover{
+    color:#34abeb !important;
+}
+
+#nav-logout:hover{
+    color: red!important;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: #34abeb;
+    text-decoration: none !important;
+}
+
+.navbar-nav {
+    float: right;
+}
